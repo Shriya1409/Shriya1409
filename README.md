@@ -4,9 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 - 🌱 I’m currently learning **python , Cyber security**
 
-- 👨‍💻 All of my projects are available at [https://shriya1409.github.io/portfolio/](https://shriya1409.github.io/portfolio/)
-
-- 💬 Ask me about **c++ , c**
+- 💬 Ask me about **Vue js**
 
 - 📫 How to reach me **nadkarnishriya@gmail.com**
 
